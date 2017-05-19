@@ -1,2 +1,2 @@
-# yume_learning_c
+# yume learning C
 The repository for codes written by C.
